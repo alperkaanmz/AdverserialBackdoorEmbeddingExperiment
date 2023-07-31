@@ -26,4 +26,5 @@ The team made use of each individual's special abilities and knowledge throughou
 
 # Acknowledgments
 
-Special thanks to our instructor [Ehsan NOWROOZI] and our project crew [Bilge Sahin], [Efecan Okkalıoglu] and [Ecem Aydogan] for their hard-work during the development of this project.
+Special thanks to our instructor [Ehsan NOWROOZI] and our project crew [Bilge Sahin], [Efecan Okkalıoglu] and 
+[Ecem Aydogan] for their hard-work during the development of this project.
